@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7d6d8d0.css",
+    "main.js": "/static/js/main.e75804c1.js",
+    "static/js/453.ee5807c3.chunk.js": "/static/js/453.ee5807c3.chunk.js",
+    "static/media/milkyWay.jpg": "/static/media/milkyWay.922b4b906f9689bef027.jpg",
+    "index.html": "/index.html",
+    "main.a7d6d8d0.css.map": "/static/css/main.a7d6d8d0.css.map",
+    "main.e75804c1.js.map": "/static/js/main.e75804c1.js.map",
+    "453.ee5807c3.chunk.js.map": "/static/js/453.ee5807c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d6d8d0.css",
+    "static/js/main.e75804c1.js"
+  ]
+}
